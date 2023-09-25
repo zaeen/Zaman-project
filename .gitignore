@@ -1,0 +1,40 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serData/
+[Ii]mport/
+[Aa][Ss][Ss][Ee][Tt][Ss]/Generated/
+[Aa][Ss][Ss][Ee][Tt][Ss]/WebPlayerSettings.asset
+[Aa][Ss][Ss][Ee][Tt][Ss]/StreamingAssets/
+
+# Visual Studio files
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.ide
+*.pdb
+*.opendb
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+
+# Build results
+/Builds/
+/Temp/
+/Obj/
+/UnityGenerated/
+/Assets/Plugins/Editor/
